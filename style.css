@@ -1,0 +1,8 @@
+h1 {
+	border-bottom: none;
+	border-bottom: 1px solid rgb(211, 68, 68);
+}
+h2 {
+	border-bottom: 1px solid rgb(211, 68, 68);
+ 	padding-bottom: 12px;
+}
