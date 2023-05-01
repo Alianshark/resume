@@ -6,10 +6,10 @@ Nationality: Ukranian
 
 Address: Kyiv 02232, Ukraine
 
-Phone number: +380960104853
+Phone number: `+380960104853`
 
 Email adress: shuryk19@gmail.com 
-
+#
 # PROFILE
 
 I have completed the Frontend development course and am looking for my first job in IT.
@@ -27,17 +27,18 @@ Html, Css, Javascript - W3Schools;
 
 ## SKILLS
 
-- HTML, CSS, JavaScript;
-- Nuke, photoshop;
-- Knowledge of test - design techniques;
-- Ability to create clear test documentation, test-cases/suits, and bug-reports;
+- `HTML, CSS, JavaScript, React, Pixi;`
+- `Node.js, gitBush;`
+- `Nuke (the Foundry), photoshop;`
+- `Knowledge of test - design techniques;`
+- `Ability to create clear test documentation, test-cases/suits, and bug-reports;`
 
 ## PROJECTS
 
 I am working on developing a runner style game with my friends.
-Me and project i worked on in git - https://github.com/Alianshark
+Me and project i worked on - https://github.com/Alianshark
 
-## WORK EXPERIENCE
+# WORK EXPERIENCE
 
 ### Taking programming courses.
 
@@ -45,7 +46,7 @@ Unoccupied 02/2022 – present KIEV, UKRAINE.
 Taking different programming courses, working on my pet projects in collaboration with
 friends. Looking for job.
 
-### Bartander\waiter.
+### Bartander/waiter.
 
 RockShashlik 02/2021 – 02/2022 KIEV, UKRAINE.
 Working as a waiter and bartender, I performed table service, communication with visitors,
