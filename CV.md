@@ -1,13 +1,9 @@
 # Alexandr Zinovchuk
 
 Date of birth: 10.01.1991
-
 Nationality: Ukranian
-
 Address: Kyiv 02232, Ukraine
-
 Phone number: `+380960104853`
-
 Email adress: shuryk19@gmail.com 
 #
 # PROFILE
@@ -29,7 +25,7 @@ Html, Css, Javascript - W3Schools;
 
 - `HTML, CSS, JavaScript, React, Pixi;`
 - `Node.js, gitBush;`
-- `Nuke (the Foundry), photoshop;`
+- `Nuke (the Foundry), photoshop, illustrator, Spine;`
 - `Knowledge of test - design techniques;`
 - `Ability to create clear test documentation, test-cases/suits, and bug-reports;`
 
@@ -64,7 +60,7 @@ Mocha.
 Djet-Kyiv 10/2015 – 07/2020 KYIV, UKRAINE.
 Support of office PCs, computers systems and networks, sound, windows, devices.
 
-Shop manager.
+### Shop manager.
 
 Magellan ("Mosigra") 06/2011 – 09/2014 KYIV, UKRAINE.
 Was engaged in the management of purchases, shipments, warehousing of goods. Worked
